@@ -1,0 +1,15 @@
+.con{
+    background-color: rgb(219, 223, 226);
+}
+.vl{
+    border-left: 2px solid black;
+            height: 20px;
+            margin-left:10px;
+           
+}
+.p{
+    margin-left: 5px;
+}
+.b1{
+    margin-left: 15px;
+}
