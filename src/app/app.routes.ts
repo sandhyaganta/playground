@@ -7,6 +7,7 @@ import { BatmintonComponent } from './batminton/batminton.component';
 import { StadiumComponent } from './stadium/stadium.component';
 import { BooknowComponent } from './booknow/booknow.component';
 import { BookedComponent } from './booked/booked.component';
+import { BookingComponent } from './booking/booking.component';
 
 export const routes: Routes = [
     {path:'',component:HomePageComponent},
@@ -16,6 +17,7 @@ export const routes: Routes = [
     {path:'batminton',component:BatmintonComponent},
     {path:'stadium',component:StadiumComponent},
     {path:'book',component:BooknowComponent},
-    {path:'booked',component:BookedComponent}
+    {path:'booked',component:BookedComponent},
+    {path:'booking',component:BookingComponent}
     
 ];
