@@ -5,6 +5,7 @@ import { GamesSportsComponent } from './games-sports/games-sports.component';
 import { CricketComponent } from './cricket/cricket.component';
 import { BatmintonComponent } from './batminton/batminton.component';
 import { StadiumComponent } from './stadium/stadium.component';
+import { BooknowComponent } from './booknow/booknow.component';
 
 export const routes: Routes = [
     {path:'',component:HomePageComponent},
@@ -12,6 +13,7 @@ export const routes: Routes = [
     {path:'games',component:GamesSportsComponent},
     {path:'cricket',component:CricketComponent},
     {path:'batminton',component:BatmintonComponent},
-    {path:'stadium',component:StadiumComponent}
+    {path:'stadium',component:StadiumComponent},
+    {path:'book',component:BooknowComponent}
     
 ];
