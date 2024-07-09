@@ -1,0 +1,13 @@
+{
+  "routes": [
+    "/",
+    "/batminton",
+    "/book",
+    "/booked",
+    "/booking",
+    "/cricket",
+    "/games",
+    "/homepage",
+    "/stadium"
+  ]
+}
